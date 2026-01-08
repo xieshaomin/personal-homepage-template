@@ -7,14 +7,13 @@ I'm currently pursuing a Master's degree in Electronic Information at the Depart
 <!-- <code>XX@XX.XX</code> -->
 
 #### Education  
-**Hunan University of Technology**, Master of Electronic Information (2024.09 – 2027.06)  
+**湖南工业大学**, 电子信息 (2024.09 – 2027.06)  
 • GPA: 3.49/4.00  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**湖南城市学院**, 网络工程 (2019.09 – 2023.06)<br>  
+• GPA: 3.40/5.00  
+<!-- **XX University**, Honours Bachelor of XX (XX – XX)  
+• GPA: XX/XX (top XX%)   -->
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### 研究领域  
+多模态图像文本检索、噪声对应.
